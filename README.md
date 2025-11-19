@@ -86,10 +86,7 @@ Hello everyone! Being a bioinformatician, it is difficult to scale up your progr
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Praaathaamesh&show_icons=true&locale=en&layout=compact&theme=react" alt="Praaathaamesh"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/Praaathaamesh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praaathaamesh&&theme=react" alt="Praaathaamesh" />
-  </a>
+
 <!--
 <div align="center">
   <a href="https://github.com/Praaathaamesh">
