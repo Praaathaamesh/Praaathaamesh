@@ -69,28 +69,3 @@ Hello everyone! Being a bioinformatician, it is difficult to scale up your progr
 </td></tr></table>  
 
 <br/>  
-
-
-------
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=praaathaamesh&theme=react-dark&bg_color=100f0farea=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-------
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praaathaamesh&show_icons=true&locale=en&layout=compact" alt="praaathaamesh" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=praaathaamesh&" alt="praaathaamesh" /></p>
--->
-<div align="center">
-  <a href="https://github.com/Praaathaamesh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Praaathaamesh&show_icons=true&locale=en&layout=compact&theme=react" alt="Praaathaamesh"/>
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://github.com/Praaathaamesh">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Praaathaamesh&repo=DL-API-Management&theme=react" alt="Praaathaamesh"/>
-  </a>
-</div>
--->
