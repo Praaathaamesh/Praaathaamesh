@@ -1,6 +1,6 @@
 <h1 align="left">About me</h1>
 <h2 align="left">Hi 🌏, I'm Prathamesh Jadhav</h2>
-<h3 align="left">Aspiring Bioinformatician. Neophyte and Aspiring Developer and Data Scientist!</h3>
+<h3 align="left">Aspiring Bioinformatician. Neophyte and Aspiring Developer, AI & ML Engineer and Data Scientist!</h3>
 Hello everyone! Being a bioinformatician, it is difficult to scale up your programming excellence as per the community standards, yet I am here trying my best to showcase the skillset I harbour. Still learning, still improving! Thank you!
 
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=praaathaamesh&label=Profile%20views&color=0e75b6&style=flat" alt="praaathaamesh" /> </p>
