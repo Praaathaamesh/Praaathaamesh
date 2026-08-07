@@ -7,11 +7,11 @@ Hello everyone! Being a bioinformatician, it is difficult to scale up your progr
 
 ------
 
--  I’m currently working on **ML/AI/DL computational implementation and Software Developement using Python and C++**
+-  I’m currently working on **AI implementation and Software Developement integration with biological problems.**
 
--  I’m currently learning **C++ Fundamentals, Game Developement, TensorFlow, Keras**
+-  I’m currently learning **C++ Fundamentals, Game Developement, Python Backend Developement**
 
--  Ask me about **Python, Deep Learning, Machine Learning, AI, C++, Data Analysis, Data Science**
+-  Ask me about **Bioinformatics (Computational Genomics, Molecular Dynamics/Simulations/Clinical Data Science), Python/C++ Developement, AI/ML Engineering, Data Analysis, Data Science**
 
 -  How to reach me **praaathaaamesh@gmail.com**
 
