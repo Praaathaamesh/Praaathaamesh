@@ -1,5 +1,5 @@
 <h1 align="left">About me</h1>
-<h2 align="left">Hi 🌏, I'm Prathamesh Jadhav</h2>
+<h2 align="left">Hi, I'm Prathamesh Jadhav</h2>
 <h3 align="left">Aspiring Bioinformatician. Neophyte and Aspiring Developer, AI & ML Engineer and Data Scientist!</h3>
 Hello everyone! Being a bioinformatician, it is difficult to scale up your programming excellence as per the community standards, yet I am here trying my best to showcase the skillset I harbour. Still learning, still improving! Thank you!
 
@@ -7,15 +7,15 @@ Hello everyone! Being a bioinformatician, it is difficult to scale up your progr
 
 ------
 
-- 🔭 I’m currently working on **ML/AI/DL computational implementation and Software Developement using Python and C++**
+-  I’m currently working on **ML/AI/DL computational implementation and Software Developement using Python and C++**
 
-- 🌱 I’m currently learning **C++ Fundamentals, Game Developement, TensorFlow, Keras**
+-  I’m currently learning **C++ Fundamentals, Game Developement, TensorFlow, Keras**
 
-- 💬 Ask me about **Python, Deep Learning, Machine Learning, AI, C++, Data Analysis, Data Science**
+-  Ask me about **Python, Deep Learning, Machine Learning, AI, C++, Data Analysis, Data Science**
 
-- 📫 How to reach me **praaathaaamesh@gmail.com**
+-  How to reach me **praaathaaamesh@gmail.com**
 
-- ⚡ Fun fact **I play video game too!**
+-  Fun fact **I play video game too!**
 
 ------
 
